@@ -1,5 +1,5 @@
 5.times do 
-	"penguins like to jump off iceburgs.
+	"penguins like to jump off iceburgs!".
 end
 
 
